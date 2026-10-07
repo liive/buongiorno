@@ -1,0 +1,111 @@
+{
+  "restaurant": "Buon Giorno Trattoria",
+  "checked_on": "2026-10-01",
+  "content_source": "https://kaunasin.lt/kur-pavalgyti/buon-giorno-trattoria/",
+  "photos": [
+    {
+      "file": "assets/photo-01.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Pizza with basil and ham",
+      "source_url": "https://wolt.com/en/ltu/kaunas/restaurant/buon-giorno-trattoria",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/08f94da2-6535-11ea-9c21-0a58647cea21_BuonGiorno_007.jpeg",
+      "reuse": "Unknown"
+    },
+    {
+      "file": "assets/photo-02.jpg",
+      "width": 1600,
+      "height": 1067,
+      "description": "Set dining table in warm Italian restaurant interior",
+      "source_url": "https://www.meniu.lt/vieta/buon-giorno-trattoria",
+      "image_url": "https://static.meniu.lt/uploads/restaurant/photo/9/5891/cb381d77131fcd50ac0d41654c5a55ca01488317.jpeg",
+      "reuse": "Unknown; public venue listing does not establish reuse license"
+    },
+    {
+      "file": "assets/photo-03.jpg",
+      "width": 1600,
+      "height": 1200,
+      "description": "Layered plated starter",
+      "source_url": "https://www.meniu.lt/vieta/buon-giorno-trattoria",
+      "image_url": "https://static.meniu.lt/uploads/restaurant/photo/9/5892/d842f9cb97ed35214a31c59730b22107a3658fc7.jpeg",
+      "reuse": "Unknown; public venue listing does not establish reuse license"
+    },
+    {
+      "file": "assets/photo-04.jpg",
+      "width": 1080,
+      "height": 1350,
+      "description": "Bruschetta-style topped bites",
+      "source_url": "https://www.meniu.lt/vieta/buon-giorno-trattoria",
+      "image_url": "https://static.meniu.lt/uploads/restaurant/photo/9/5894/b29fc46562b9f1bd1ed3a141bd4456803a835a1e.jpeg",
+      "reuse": "Unknown; public venue listing does not establish reuse license"
+    },
+    {
+      "file": "assets/photo-05.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Mussels in a pan",
+      "source_url": "https://wolt.com/en/ltu/kaunas/restaurant/buon-giorno-trattoria",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5a8ae6eb825542000b8d5362/0b6b234c-1a9f-11eb-942e-c2af49394ad4_22218644_1462231947229135_6197395488538190482_o.jpeg",
+      "reuse": "Unknown"
+    },
+    {
+      "file": "assets/photo-06.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Layered grilled vegetables with melted cheese",
+      "source_url": "https://wolt.com/en/ltu/kaunas/restaurant/buon-giorno-trattoria",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/83936a1c-6539-11ea-8ab1-0a58647d1c12_ASK_Photo-9.jpeg",
+      "reuse": "Unknown"
+    },
+    {
+      "file": "assets/photo-07.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Tomato soup",
+      "source_url": "https://wolt.com/en/ltu/kaunas/restaurant/buon-giorno-trattoria",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5a8ae6eb825542000b8d5362/f7d0e44a-8e14-11eb-a4a7-baac4ea1a03f_ask_photo_21.jpeg",
+      "reuse": "Unknown"
+    },
+    {
+      "file": "assets/photo-08.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Fish fillet with mash and greens",
+      "source_url": "https://wolt.com/en/ltu/kaunas/restaurant/buon-giorno-trattoria",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/90824c9a-6712-11ea-9fca-0a58646005c5_BuonGiorno_030.jpeg",
+      "reuse": "Unknown"
+    },
+    {
+      "file": "assets/photo-09.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Steak board with grilled vegetables",
+      "source_url": "https://wolt.com/en/ltu/kaunas/restaurant/buon-giorno-trattoria",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5a8ae6eb825542000b8d5362/73c600d4-8d6c-11eb-bf7b-02fad15f04e7_kiaulienos_sprandin_s_kepsnys.jpeg",
+      "reuse": "Unknown"
+    },
+    {
+      "file": "assets/photo-10.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Chocolate dessert with ice cream",
+      "source_url": "https://wolt.com/en/ltu/kaunas/restaurant/buon-giorno-trattoria",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/f969f36a-6781-11ea-9f3b-0a58647d0e1d_ASK_Photo-32.jpeg",
+      "reuse": "Unknown"
+    },
+    {
+      "file": "assets/pica-su-voveraitemis.png",
+      "width": 2048,
+      "height": 740,
+      "description": "Pizza with chanterelles and greens being sliced",
+      "source": "User supplied image(20261004-085646).png",
+      "source_url": "https://www.facebook.com/BuonGiornoTrattoria",
+      "added_on": "2026-10-04"
+    }
+  ],
+  "review_note": "10 authentic photos.",
+  "google_maps_status": "Direct Google Maps closure status could not be confirmed.",
+  "photo_rights": "Source photographs are authentic; no explicit republication license verified. Private design preview.",
+  "design_updated_on": "2026-10-04",
+  "gallery_layout": "Uniform 4:3 image frames in aligned responsive rows"
+}
